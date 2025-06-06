@@ -3,7 +3,7 @@ name = "elim 60%"
 product_name = "elim 60%"
 vendor_id = 0x4c4b
 product_id = 0x4643
-manufacturer = "haobo"
+manufacturer = "mark1028"
 chip = "nrf52840"
 
 [matrix]
